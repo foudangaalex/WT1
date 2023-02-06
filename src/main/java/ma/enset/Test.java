@@ -6,7 +6,8 @@ public class Test{
 
 public static void main(String[] args){
 //------------------------------------
-System.out.println("hello world :)");
+String sms="Hello world";
+System.out.println(sms);
 }
 
 
